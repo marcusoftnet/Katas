@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{540BF6A1-F6C9-40BB-A384-A495217B6CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{540BF6A1-F6C9-40BB-A384-A495217B6CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540BF6A1-F6C9-40BB-A384-A495217B6CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540BF6A1-F6C9-40BB-A384-A495217B6CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540BF6A1-F6C9-40BB-A384-A495217B6CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
